@@ -1,0 +1,114 @@
+<html lang="en">
+
+<head>
+
+    <title>Geek Assignment </title>
+    <style>
+        body {
+            margin: 5px;
+
+
+        }
+
+        table {
+            border: 1;
+            align-content: center;
+
+
+        }
+
+        tbody {
+            align-content: center;
+        }
+
+        span {
+            margin: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align :center"> <b>College Of Engineering Pune</b> </h1>
+    <br />
+    <form>
+        <h3> <b>College Admission Form</b> </h3>
+        <br />
+        Name: <input type="Text" name="Name" placeholder="Enter your Full Name" size="30">
+        <br />
+        Email Id: <input type="email" name="email" placeholder="Enter your Email Address " pattern="@[a-z0-9.-]"
+            minlength="8" maxlength="20">
+        <br />
+        Mobile No: <input type="number" name="mobile_No" placeholder="Enter your Mobile No" pattern="0-9"
+            maxlenght="10">
+        <br /> <br />
+        <b>Gender</b>
+        <input type="radio" name="Gender" value="Male"> Male
+        <input type="radio" name="Gender" value="Female">Female
+        <br />
+        <br />
+        <table>
+
+            <tbody>
+                <tr>
+                    <b>Qualification </b>
+
+                    <td><b>Examination</b></td>
+                    <td align="center"><b>Board</b></td>
+                    <td align="center"><b>Percentage</b></td>
+                    <td align="center"><b>Year of Passing</b></td>
+                </tr>
+                <tr>
+                    <td>Class 10th</td>
+                    <td><input type="text" name="Class10_Board" maxlength="30">
+                    </td>
+                    <td><input type="number" name="Class10_Percentage" maxlength="30"></td>
+                    <td><input type="date" name="Class10 YrOfPassing" maxlength="30"></td>
+                </tr>
+                <tr>
+                    <td>Class 12th</td>
+                    <td><input type="text" name="Class12_Board" maxlength="30">
+                    </td>
+                    <td><input type="number" name="Class12_Percentage" maxlength="30"></td>
+                    <td><input type="date" name="Class12 YrOfPassing" maxlength="30"></td>
+                </tr>
+                <tr>
+                    <td>Graduation</td>
+                    <td><input type="text" name="graduation _Board" maxlength="30">
+                    </td>
+                    <td><input type="number" name="graduation_Percentage" maxlength="30"></td>
+                    <td>
+                        <input type="date" name="graduation_PercentageYrOfPassing" maxlength="30">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><b>COURSES APPLIED FOR :</b></td>
+                    <br />
+                    <td><span>
+                            BE
+                            <input type="radio" name="Course_BE" value="BE"></span>
+                        <Span>ME
+                            <input type="radio" name="CourseME" value="ME">
+                        </span>
+                        <Span>MBA
+                            <input type="radio" name="Course_MBA" value="MBA">
+                        </span>
+                    </td>
+                </tr>
+                <br />
+                <tr>
+                    <td>
+                        <button style="margin:5px;">submit</button>
+                        <button style="margin:5px;">reset</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+
+
+</body>
+<br>
+&copy;Kshitija Kamble
+
+</html>

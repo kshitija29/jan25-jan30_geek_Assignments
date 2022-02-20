@@ -1,0 +1,147 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    /* font-weight: 800; */
+  }
+  
+  div {
+    border: solid 1px rgb(0, 0, 0);
+  }
+  
+  .container-html{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+   
+  }
+  .html-text1 {
+    background-color: rgb(108, 238, 108);
+    border: solid 1px black;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  .html-text2{
+    background-color: yellow;
+    width: 90%;
+    padding: 5px;
+  }
+  
+  .html-text3  {
+    background-color: yellow;
+    width: fit-content;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .container-body {
+    background-color: skyblue;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .body {
+    background-color: yellow;
+    width: 150px;
+    margin: auto;
+    padding: 5px;
+    margin: 5px auto;
+  }
+  
+  .container-wrapper {
+    background-color: lightgreen;
+    width: 100%;
+    margin: 10px auto;
+  }
+  
+  .wrapper {
+    background-color: yellow;
+    width: fit-content;
+    padding: 5px;
+    margin: 5px auto;
+  }
+  
+  .container-container1 {
+    background-color: rgb(202, 190, 190);
+    width: 95%;
+    margin: auto;
+  }
+  .container1 {
+    background-color: yellow;
+    width: fit-content;
+    padding: 5px;
+    margin: 5px auto;
+  }
+  .container-header {
+    background-color: rgb(226, 172, 181);
+    width: 95%;
+    margin: 5px auto;
+  }
+  
+  .header {
+    width: fit-content;
+    background-color: yellow;
+    padding: 5px;
+    margin: 5px auto;
+  }
+  
+  .container-navigation {
+    background-color: rgb(199, 161, 197);
+    padding: 3px;
+    width: 93%;
+    margin: 5px auto;
+  }
+  
+  .navigation {
+    width: fit-content;
+    margin: 5px auto;
+    padding: 5px;
+  }
+  
+  .ccontainer-container2 {
+    background-color: rgb(136, 168, 180);
+    width: 93%;
+    margin: 5px auto;
+  }
+  
+  .container2 {
+    width: 95%;
+    margin: 5px auto 10px;
+    background-color: yellow;
+  }
+  .container-footer {
+    background-color: wheat;
+    width: 93%;
+    margin: 5px auto;
+  }
+  
+  .footer {
+    background-color: yellow;
+    width: 80%;
+    margin: 5px auto;
+    padding: 5px;
+  }
+  span {
+    padding: 5px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin: 5px;
+  }
+  .container-float {
+    width: fit-content;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    border: none;
+  }
+  .content{
+    background-color: rgb(248, 244, 244);
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  

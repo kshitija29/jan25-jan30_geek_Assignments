@@ -61,5 +61,5 @@ repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_As
 Feb-18-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/18Feb/index.html
 repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/18Feb
 
-Feb-20-2022 https://kshitija29.github.io/Geek-Assignments-Test/20Feb/index.html
-repo link: https://github.com/kshitija29/Geek-Assignments-Test/20Feb
+Feb-20-2022 https://kshitija29.github.io/Geek-Assignments-Test/20-Feb-Test/index.html
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/20-Feb-Test

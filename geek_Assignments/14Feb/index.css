@@ -21,7 +21,7 @@ nav{
      padding: 0 5px 0 5px 0;
 }
 img{
-    width: 100px;
+    width: 50px;
     height: 25px;
     margin-top: 20px;
     margin-left: 20px;
@@ -37,6 +37,9 @@ input{
     font-weight: bold;
     border: 1px solid whitesmoke;
     margin-top: 10px;
+}
+input:active{
+    background-color: blue;
 }
 .search{
     border: 1px solid whitesmoke;
@@ -146,27 +149,7 @@ button{
     background: #242424;
 }
 
-.video-container{
-    width: calc(100% - 250px);
-    margin-top: 120px;
-    margin-left: 250px;
-    padding: 20px;
-    display: grid;
-    grid-template-columns: repeat(4, 25%);
-    grid-gap: 20px 5px;
-    overflow-x: hidden;
-}
 
-.video{
-    min-height: 250px;
-    height: auto;
-}
-
-.thumbnail{
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-}
 
 .content{
     width: 100%;
@@ -176,27 +159,41 @@ button{
     justify-content: space-between;
 }
 
-.channel-icon{
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 10px;
-}
 
-.title{
+.head span {
+    margin: 10px 28px;
+    padding: 8px;
+    background-color: rgba(230, 222, 222, 0.904);
+    border-radius: 70px;
+    border: rgb(212, 206, 206) solid 1px;
+  }
+  .container {
+    display: flex;
     width: 100%;
-    height: 40px;
-    overflow: hidden;
-}
+    margin-left: 2px;;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
 
-.channel-name{
-    font-size: 14px;
-    margin: 2px 0;
-    color
-
-: #979797;
-}
+  
+  .video_Container:hover {
+    transform: scale(1.3);
+  }
+  .video_Container {
+      margin-left: 5px;
+margin-top: 80px;
+    width: min-content;
+  }
+  
+  p {
+    color: rgb(66, 61, 61);
+  }
+  
+  pre {
+    color: rgb(95, 93, 93);
+  }
+  
 
 
 

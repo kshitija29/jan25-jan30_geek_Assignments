@@ -63,3 +63,25 @@ repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_As
 
 Feb-20-2022 https://kshitija29.github.io/Geek-Assignments-Test/20-Feb-Test/index.html
 repo link: https://github.com/kshitija29/Geek-Assignments-Test/20-Feb-Test
+
+
+Feb-21-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/21Feb/index.html
+
+
+Feb-22-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/22Feb/index.html
+
+
+Feb-22-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/22Feb/index1.html
+
+
+Feb-23-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/23Feb/index.html
+
+
+
+Feb-24-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/24Feb/index.html
+
+
+Feb-25-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/25Feb/assignment1/
+Feb-25-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/25Feb/asssignment2/
+
+

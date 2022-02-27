@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dropdown by hover</title>
+<style>
+  body{
+  align-content: center;
+    background-color: rgb(170, 186, 207);
+  }
+  h2,h1{
+    border: rgb(37, 36, 36);
+    background-color: cadetblue;
+    border-bottom-right-radius: 100%;
+  }
+.btn1,.btn2 {
+  margin: 2px;
+  background-color: #665acf;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  background-color: skyblue;
+}
+
+.dd-container1{
+  
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(94, 89, 89, 0.2);
+  z-index: 1;
+}
+
+.dd-container2{
+
+  display: none;
+  position:absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(104, 96, 96, 0.2);
+  z-index: 2;
+}
+.dd-container1 a,.dd-container2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dd-container1 a:hover,.dd-container2 a:hover {background-color: #ddd;}
+
+.dropdown:hover .dd-container1,.dropdown:hover .dd-container2{display: block;}
+
+.dropdown:hover .btn1,.dropdown:hover .btn2  {background-color: #47c477;}
+</style>
+</head>
+<body>
+<h1>Dropdown via Hover</h1>
+<h2>Download softwares for web devlopment</h2>
+
+<!-- <div class="dropdown"> 
+    <div class="trigger1">
+        <span class="download">Download</span>
+        <div class="trigger2">
+  <button class="btn1"> Windows</button>
+  <div class="dd-container1">
+    <a  href="https://notepad-plus-plus.org/">Notepad++ </a>
+    <a  href="https://visualstudio.microsoft.com/">Visual Studio code</a>
+    <a  href="http://brackets.io/">brackets</a>
+  </div>
+</div> -->
+<div class="maindiv">
+  <div class="subdiv1">
+      <span class="download">DOWNLOAD</span>
+      <div class="subdiv2">
+          <h2>WINDOWS</h2>
+          <div class="subdiv2-1 in">
+              <hr>
+              <h4>softwares</h4>
+              <hr>
+              <ul class="subdiv2-1-1 no">
+                  <li><a  href="https://notepad-plus-plus.org/">Notepad++ </a>
+                  </li>
+                  <li> <a  href="https://visualstudio.microsoft.com/">Visual Studio code</a>
+                  </li>
+                  <li><a  href="http://brackets.io/">brackets</a>
+                  </li>
+                  <hr>
+              </ul>
+
+          </div>
+
+
+
+
+</body>
+</html>

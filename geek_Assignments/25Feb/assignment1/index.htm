@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>palindrome  program</title>
+</head>
+<script>
+
+function checkPalindrome(str) {
+
+// for finding the length of a string
+const len = string.length;
+for (let i = 0; i < len / 2; i++) {
+
+    // check if first and last string are same or not
+    if (string[i] !== string[len - 1 - i]) {
+        return 'FALSE: It is not a palindrome';
+    }
+}
+return 'TRUE : It is a palindrome';
+}
+
+// take input from a user
+const string = prompt('Enter a string : ');
+
+// function calling
+const result = checkPalindrome(string);
+//write result on page
+document.write(result);
+</script>
+<body>
+</body>
+</html>

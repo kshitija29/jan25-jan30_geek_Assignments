@@ -89,7 +89,7 @@ Feb-25-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/
 
 Feb-28-2022
 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/28Feb/
-repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/14Feb
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/28Feb
 
 Mar-1-2022 
 Assignment1:

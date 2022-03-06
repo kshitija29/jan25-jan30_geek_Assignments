@@ -85,3 +85,40 @@ Feb-25-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/
 Feb-25-2022 https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/25Feb/asssignment2/
 
 
+28Feb-4March
+
+Feb-28-2022
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/28Feb/
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/14Feb
+
+Mar-1-2022 
+Assignment1:
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/1Mar/
+ repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/1Mar
+
+Assignment2:
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/1Mar/index1.html
+ repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/1Mar
+
+
+Mar-2-2022
+Assignment1:
+ https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/2Mar/index.html 
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/2Mar
+Assignment2:
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/2Mar/index1.html 
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/2Mar
+
+March-3-2022
+Assignment1:
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/3Mar/
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/3Mar
+
+Assignment2:
+https://kshitija29.github.io/Geek-Assignments-Test/geek_Assignments/3Mar/index1.html
+repo link: https://github.com/kshitija29/Geek-Assignments-Test/tree/main/geek_Assignments/3Mar
+
+Mar-6-22 TEST
+https://kshitija29.github.io/Geek-Assignments-Test/6-Mar-Test/    --------------------------------Test
+repo link
+https://github.com/kshitija29/Geek-Assignments-Test/tree/main/6-Mar-Test
